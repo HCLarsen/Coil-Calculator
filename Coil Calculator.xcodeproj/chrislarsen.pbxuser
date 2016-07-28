@@ -1,0 +1,181 @@
+// !$*UTF8*$!
+{
+	256AC3D80F4B6AC300CF3369 /* Coil_CalculatorAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {831, 975}}";
+			sepNavSelRange = "{1905, 0}";
+			sepNavVisRange = "{348, 904}";
+			sepNavWindowFrame = "{{20, 170}, {602, 593}}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* Coil_CalculatorAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {604, 2951}}";
+			sepNavSelRange = "{6476, 0}";
+			sepNavVisRange = "{5394, 1500}";
+			sepNavWindowFrame = "{{609, 159}, {663, 606}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = BB5A621313AE9DBE00A34442 /* Coil Calculator */;
+		activeTarget = 8D1107260486CEB800E47090 /* Coil Calculator */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Coil Calculator */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = BB5A621D13AE9DDE00A34442 /* Code sense */;
+		executables = (
+			BB5A621313AE9DBE00A34442 /* Coil Calculator */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					210,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					170,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 381962964;
+			PBXWorkspaceStateSaveDate = 381962964;
+		};
+		sourceControlManager = BB5A621C13AE9DDE00A34442 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* Coil Calculator */ = {
+		activeExec = 0;
+		executables = (
+			BB5A621313AE9DBE00A34442 /* Coil Calculator */,
+		);
+	};
+	8D1107310486CEB800E47090 /* Coil_Calculator-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{458, 110}, {700, 624}}";
+		};
+	};
+	BB01C06B15151630009AC79F /* CLMetricFormatter.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {588, 405}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 343}";
+			sepNavWindowFrame = "{{715, 177}, {647, 533}}";
+		};
+	};
+	BB01C06C15151630009AC79F /* CLMetricFormatter.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {740, 1027}}";
+			sepNavSelRange = "{306, 0}";
+			sepNavVisRange = "{0, 588}";
+			sepNavWindowFrame = "{{15, 167}, {643, 606}}";
+		};
+	};
+	BB5A621313AE9DBE00A34442 /* Coil Calculator */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Coil Calculator";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	BB5A621C13AE9DDE00A34442 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	BB5A621D13AE9DDE00A34442 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	BBA5675313B2E9590048E36C /* PhysicsConsts.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {593, 488}}";
+			sepNavSelRange = "{440, 0}";
+			sepNavVisRange = "{0, 470}";
+			sepNavWindowFrame = "{{23, 139}, {596, 616}}";
+		};
+	};
+	BBAF141314B93C610009EC89 /* Coil.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {677, 676}}";
+			sepNavSelRange = "{578, 0}";
+			sepNavVisRange = "{354, 793}";
+			sepNavWindowFrame = "{{43, 186}, {532, 546}}";
+		};
+	};
+	BBAF141414B93C610009EC89 /* Coil.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {719, 1274}}";
+			sepNavSelRange = "{732, 0}";
+			sepNavVisRange = "{251, 943}";
+			sepNavWindowFrame = "{{53, 128}, {667, 648}}";
+		};
+	};
+}
